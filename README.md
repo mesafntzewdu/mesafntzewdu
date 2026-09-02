@@ -1,25 +1,209 @@
-<!-- <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-# 💫 About Me:
-Passionate full stack developer
+# 👋 Hey, I'm Mesafnt Zewdu
 
+### Full-Stack Developer • Backend Engineer • Software Architect
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mesafintzewdu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mesafintzewdu) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mesafintzewdu) 
+I’m a passionate **full-stack developer** focused on building reliable, scalable, and production-ready applications.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mesafntzewdu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mesafntzewdu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mesafntzewdu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I enjoy turning complex business requirements into clean software — from **backend architecture and APIs** to **mobile apps, web applications, databases, and cloud infrastructure**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mesafntzewdu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mesafntzewdu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+* 🔭 Currently building **production-grade Laravel & Flutter applications**
+* 🏗️ Interested in **modular monoliths, event-driven systems, CQRS & distributed architectures**
+* ☁️ Experienced with **Azure, Firebase, Linux & deployment infrastructure**
+* 📱 Building cross-platform applications with **Flutter**
+* ⚙️ Strong focus on **Laravel, PHP, REST APIs & backend architecture**
+* 💡 Always learning, experimenting, and improving
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mesafntzewdu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
+## 🧑‍💻 About Me
+
+```text
+Role        → Full-Stack Developer
+Backend     → Laravel • PHP • .NET • Spring Boot
+Frontend    → Flutter • JavaScript • HTML • CSS
+Databases   → PostgreSQL • MySQL • SQL Server • MongoDB
+Cloud       → Microsoft Azure • Firebase
+Architecture→ Modular Monolith • CQRS • Event-Driven Architecture
+Tools       → Git • Linux • Nginx • Docker • GitHub Actions
+```
+
+I particularly enjoy working on systems where **business logic, reliability, scalability, and maintainability** matter.
+
+---
+
+# 🚀 What I Build
+
+### 🌐 Backend & APIs
+
+* RESTful APIs
+* Authentication & authorization
+* Multi-tenant applications
+* Payment and wallet systems
+* Real-time systems
+* Background jobs & queues
+* Event-driven architectures
+
+### 📱 Mobile & Desktop
+
+* Flutter Android applications
+* Flutter iOS applications
+* Flutter Windows applications
+* API-driven mobile applications
+* Real-time communication
+
+### 🏗️ Software Architecture
+
+* Modular Monoliths
+* CQRS
+* Event-driven architecture
+* Transactional Outbox Pattern
+* Domain-driven design principles
+* Multi-module systems
+* Distributed services
+
+### ☁️ Infrastructure
+
+* Azure
+* Firebase
+* Linux servers
+* Nginx
+* CI/CD
+* GitHub Actions
+* Production deployments
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+
+### Backend
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+### Mobile & Frontend
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### Cloud & DevOps
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0072C6?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+---
+
+# 📌 Featured Projects
+
+### 🍔 Multi-Tenant Food Delivery & Booking Platform
+
+A modular backend and Flutter client for restaurants, customers, orders, kitchens, delivery, dispatch, payments, promotions, and bookings.
+
+**Architecture:**
+
+`Laravel` • `Modular Monolith` • `CQRS` • `Event-Driven Architecture` • `Transactional Outbox`
+
+**Modules include:**
+
+`Restaurant` • `Menu` • `Order` • `Kitchen` • `Delivery` • `Dispatch` • `Fleet` • `Booking` • `Payment` • `Ledger` • `Notification` • `Audit`
+
+---
+
+### 💳 Supermarket Payment Verification System
+
+A payment verification platform designed to verify customer payments and integrate local payment channels with a secure local/remote architecture.
+
+**Technologies:**
+
+`Laravel` • `Filament` • `MySQL` • `Flutter` • `REST API` • `SMS Processing`
+
+Features include:
+
+* Payment verification
+* QR-based verification
+* SMS capture and processing
+* Device pairing
+* Audit logging
+* Offline/local operation
+* Remote verification
+* Secure synchronization
+
+---
+
+### 🚗 MichuPark
+
+A parking management platform with mobile applications and cloud backend infrastructure.
+
+**Technologies:**
+
+`Flutter` • `.NET` • `Azure Functions` • `PostgreSQL` • `Firebase`
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mesafntzewdu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mesafntzewdu&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesafntzewdu&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mesafntzewdu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/mesafintzewdu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/mesafintzewdu">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tiktok.com/@mesafintzewdu">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building software, solving problems, and learning something new every day.</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects useful, consider giving them a star!
+</p>
