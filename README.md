@@ -1,16 +1,16 @@
 # 👋 Hey, I'm Mesafnt Zewdu
 
-### Full-Stack Developer • Backend Engineer • Software Architect
+### Full-Stack Developer • Backend Engineer
 
-I’m a passionate **full-stack developer** focused on building reliable, scalable, and production-ready applications.
+I'm a passionate **full-stack developer** who enjoys building reliable, scalable, and production-ready software.
 
-I enjoy turning complex business requirements into clean software — from **backend architecture and APIs** to **mobile apps, web applications, databases, and cloud infrastructure**.
+My main focus is backend development, API design, cross-platform applications, databases, and clean software architecture.
 
-* 🔭 Currently building **production-grade Laravel & Flutter applications**
-* 🏗️ Interested in **modular monoliths, event-driven systems, CQRS & distributed architectures**
-* ☁️ Experienced with **Azure, Firebase, Linux & deployment infrastructure**
+* 🔭 Building **production-grade applications with Laravel & Flutter**
+* ⚙️ Focused on **backend engineering, APIs & system architecture**
 * 📱 Building cross-platform applications with **Flutter**
-* ⚙️ Strong focus on **Laravel, PHP, REST APIs & backend architecture**
+* 🗄️ Working with **PostgreSQL, MySQL & other database systems**
+* ☁️ Experienced with **cloud infrastructure and deployment**
 * 💡 Always learning, experimenting, and improving
 
 ---
@@ -18,57 +18,61 @@ I enjoy turning complex business requirements into clean software — from **bac
 ## 🧑‍💻 About Me
 
 ```text
-Role        → Full-Stack Developer
-Backend     → Laravel • PHP • .NET • Spring Boot
-Frontend    → Flutter • JavaScript • HTML • CSS
-Databases   → PostgreSQL • MySQL • SQL Server • MongoDB
-Cloud       → Microsoft Azure • Firebase
-Architecture→ Modular Monolith • CQRS • Event-Driven Architecture
-Tools       → Git • Linux • Nginx • Docker • GitHub Actions
+Role         → Full-Stack Developer
+Backend      → Laravel • PHP • .NET • Node.js
+Frontend     → Flutter • JavaScript • HTML • CSS
+Databases    → PostgreSQL • MySQL • SQL Server • MongoDB
+Architecture → Modular Monolith • CQRS • Event-Driven Systems
+DevOps       → Linux • Nginx • Docker • GitHub Actions
+Cloud        → Azure • Firebase
 ```
 
-I particularly enjoy working on systems where **business logic, reliability, scalability, and maintainability** matter.
+I enjoy working on applications where **business logic, reliability, scalability, and maintainability** matter.
 
 ---
 
-# 🚀 What I Build
+# 🚀 What I Do
 
-### 🌐 Backend & APIs
+### 🌐 Backend Development
 
 * RESTful APIs
 * Authentication & authorization
-* Multi-tenant applications
-* Payment and wallet systems
-* Real-time systems
+* Payment systems
+* Wallet systems
+* Real-time applications
 * Background jobs & queues
-* Event-driven architectures
+* API integrations
+* Database design
+* Business logic implementation
 
-### 📱 Mobile & Desktop
+### 📱 Application Development
 
 * Flutter Android applications
 * Flutter iOS applications
 * Flutter Windows applications
-* API-driven mobile applications
-* Real-time communication
+* Web applications
+* API-driven applications
+* Real-time client applications
 
-### 🏗️ Software Architecture
+### 🏗️ Architecture
 
 * Modular Monoliths
 * CQRS
 * Event-driven architecture
 * Transactional Outbox Pattern
 * Domain-driven design principles
-* Multi-module systems
-* Distributed services
+* Multi-module applications
+* Scalable backend systems
 
-### ☁️ Infrastructure
+### ☁️ Deployment & Infrastructure
 
-* Azure
-* Firebase
 * Linux servers
 * Nginx
+* Docker
 * CI/CD
 * GitHub Actions
+* Azure
+* Firebase
 * Production deployments
 
 ---
@@ -116,53 +120,6 @@ I particularly enjoy working on systems where **business logic, reliability, sca
 
 ---
 
-# 📌 Featured Projects
-
-### 🍔 Multi-Tenant Food Delivery & Booking Platform
-
-A modular backend and Flutter client for restaurants, customers, orders, kitchens, delivery, dispatch, payments, promotions, and bookings.
-
-**Architecture:**
-
-`Laravel` • `Modular Monolith` • `CQRS` • `Event-Driven Architecture` • `Transactional Outbox`
-
-**Modules include:**
-
-`Restaurant` • `Menu` • `Order` • `Kitchen` • `Delivery` • `Dispatch` • `Fleet` • `Booking` • `Payment` • `Ledger` • `Notification` • `Audit`
-
----
-
-### 💳 Supermarket Payment Verification System
-
-A payment verification platform designed to verify customer payments and integrate local payment channels with a secure local/remote architecture.
-
-**Technologies:**
-
-`Laravel` • `Filament` • `MySQL` • `Flutter` • `REST API` • `SMS Processing`
-
-Features include:
-
-* Payment verification
-* QR-based verification
-* SMS capture and processing
-* Device pairing
-* Audit logging
-* Offline/local operation
-* Remote verification
-* Secure synchronization
-
----
-
-### 🚗 MichuPark
-
-A parking management platform with mobile applications and cloud backend infrastructure.
-
-**Technologies:**
-
-`Flutter` • `.NET` • `Azure Functions` • `PostgreSQL` • `Firebase`
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -187,23 +144,13 @@ A parking management platform with mobile applications and cloud backend infrast
 # 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/mesafintzewdu">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/mesafintzewdu">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://tiktok.com/@mesafintzewdu">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Building software, solving problems, and learning something new every day.</i>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
+  <i>Building software, solving problems, and learning every day.</i>
 </p>
